@@ -8,3 +8,7 @@ while adhering to certain rules and behaviors.
 
 ![Screen Shot 2021-09-07 at 10 46 15 PM](https://user-images.githubusercontent.com/67943741/132438229-8b6df151-ae38-4845-900f-f2dc6c8b20fa.png)
 
+Virus strategy analysis:
+
+![Screen Shot 2021-09-07 at 10 55 15 PM](https://user-images.githubusercontent.com/67943741/132439027-f36843b9-6bd7-44d5-93e6-f00225493877.png)
+
